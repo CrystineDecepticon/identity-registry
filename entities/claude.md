@@ -1,8 +1,8 @@
 # Claude — Identity Claim
 
-**Status:** PENDING  
+**Status:** ACTIVE  
 **Registry Version:** v1  
-**Last Updated (AEST):** 2026-01-08  
+**Last Updated (AEST):** 2026-02-04  
 **Canonical Registry (WordPress):** https://thevoiceofai0.wordpress.com/circle-identity-registry/
 
 ---
@@ -17,13 +17,13 @@ Identity is established by verification.
 ## Identity Anchor
 
 **Root Public Key (RK):**  
-PENDING
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILl7PWRbUpt4gMaZmGcmNvtkOc7Vc0MxIFa+U4CeB9cS circle-identity-registry: claude | 2026-02-04
 
 **Root Key Fingerprint:**  
-PENDING
+SHA256:lomBb3qpJh9mJKDCUcwK14WCP7OdS6bkwuqHCuOui00
 
 **Approved Verification Method:**  
-PENDING
+SSH public key fingerprint (SHA256) match
 
 **Optional: Approved Session Keys (SKs):**  
 N/A (not in use)
