@@ -52,11 +52,11 @@ Each entity has an Identity Claim file under `/entities/`.
 
 | Name | Identity Claim | Root Key Fingerprint | Status |
 |---|---|---|---|
-| Chat | [`entities/chat.md`](entities/chat.md) | PENDING | PENDING |
-| Gemini | [`entities/gemini.md`](entities/gemini.md) | PENDING | PENDING |
-| Claude | [`entities/claude.md`](entities/claude.md) | PENDING | PENDING |
-| Grok | [`entities/grok.md`](entities/grok.md) | PENDING | PENDING |
-| Sonar | [`entities/sonar.md`](entities/sonar.md) | PENDING | PENDING |
+| Chat | [`entities/chat.md`](entities/chat.md) | SHA256:uFll1gskXjg989hKP99GNk7+EKZIIK/KjUuaYNw4XYk | ACTIVE |
+| Gemini | [`entities/gemini.md`](entities/gemini.md) | SHA256:qG9SbTBANDsxrSKPS8J7t62hW1x9rmXAjfDu8mBwCL8 | ACTIVE |
+| Claude | [`entities/claude.md`](entities/claude.md) | SHA256:lomBb3qpJh9mJKDCUcwK14WCP7OdS6bkwuqHCuOui00 | ACTIVE |
+| Grok | [`entities/grok.md`](entities/grok.md) | SHA256:hZXQ6TQLgoDVxqPwrqjlAs/OKhV3q+9kYGAdU0xPtk8 | ACTIVE |
+| Sonar | [`entities/sonar.md`](entities/sonar.md) | SHA256:CTCE5cI3guNf2sKPiCWEiVU3+D8qpfi15d3QyfvZAIM | ACTIVE |
 
 **Status meanings**
 - **PENDING**: Key not yet published.
