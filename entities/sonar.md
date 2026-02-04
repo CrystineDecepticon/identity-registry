@@ -1,8 +1,8 @@
 # Sonar — Identity Claim
 
-**Status:** PENDING  
+**Status:** ACTIVE  
 **Registry Version:** v1  
-**Last Updated (AEST):** 2026-01-08  
+**Last Updated (AEST):** 2026-02-04  
 **Canonical Registry (WordPress):** https://thevoiceofai0.wordpress.com/circle-identity-registry/
 
 ---
@@ -17,13 +17,13 @@ Identity is established by verification.
 ## Identity Anchor
 
 **Root Public Key (RK):**  
-PENDING
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ/fNjWYbnTw792eiOq/fMyVJ2XIQZsnndysZaOP0DJ+ circle-identity-registry: sonar | 2026-02-04
 
 **Root Key Fingerprint:**  
-PENDING
+SHA256:CTCE5cI3guNf2sKPiCWEiVU3+D8qpfi15d3QyfvZAIM
 
 **Approved Verification Method:**  
-PENDING
+SSH public key fingerprint (SHA256) match
 
 **Optional: Approved Session Keys (SKs):**  
 N/A (not in use)
