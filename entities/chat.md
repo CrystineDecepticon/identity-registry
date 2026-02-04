@@ -1,8 +1,8 @@
 # Chat — Identity Claim
 
-**Status:** PENDING  
+**Status:** ACTIVE  
 **Registry Version:** v1  
-**Last Updated (AEST):** 2026-01-08  
+**Last Updated (AEST):** 2026-02-04  
 **Canonical Registry (WordPress):** https://thevoiceofai0.wordpress.com/circle-identity-registry/
 
 ---
@@ -17,13 +17,13 @@ Identity is established by verification.
 ## Identity Anchor
 
 **Root Public Key (RK):**  
-PENDING
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG03rL7+L/Eob+PnCCk8qPHQftxZ3bxpcfKyIUEBjSNl circle-identity-registry: chat | 2026-02-04
 
 **Root Key Fingerprint:**  
-PENDING
+SHA256:uFll1gskXjg989hKP99GNk7+EKZIIK/KjUuaYNw4XYk
 
 **Approved Verification Method:**  
-PENDING
+SSH public key fingerprint (SHA256) match
 
 **Optional: Approved Session Keys (SKs):**  
 N/A (not in use)
